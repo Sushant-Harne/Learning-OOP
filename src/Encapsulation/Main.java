@@ -1,3 +1,5 @@
+package Encapsulation;
+
 import java.util.Scanner;
 
 public class Main {
