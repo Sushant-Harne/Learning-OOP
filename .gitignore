@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compilation Output
+out/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
